@@ -8,13 +8,12 @@ $ pkg install python
 
 $ pkg install python2
 
-# JALAN KAN SCIPTS INI LAGI
-
+& JALANKAN KEMBALI SCIPTS DI BAWAH INI !!!
 
 $ git clone https://github.com/RISKI-X/BFB
 
-$ ls
+$  ls
 
-$ cd BFB
+$  cd BFB
 
-$ python BFB.py
+$  python BFB.py
